@@ -23,8 +23,8 @@
   "author": "",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
-    "@babylonjs/gui": "^6.8.0",
-    "babylonjs": "^6.8.0"
+    "babylonjs": "^6.8.0",
+    "dat.gui": "^0.7.9"
   },
   "nodemonConfig": {
     "env": {
