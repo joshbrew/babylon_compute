@@ -21,7 +21,6 @@ canvas.style.height = '100%';
 
 
 const engine = new BABYLON.WebGPUEngine(canvas);
-engine.initAsync()
 
 document.body.appendChild(canvas);
 
